@@ -16,4 +16,4 @@ Precision | 0.508720
 Recall | 0.460360
 F-score | 0.478250
 
-[Flask app with this model] (https://github.com/SergeyKeik/RatingPredictionFlaskApp)
+[Flask app with this model](https://github.com/SergeyKeik/RatingPredictionFlaskApp)
