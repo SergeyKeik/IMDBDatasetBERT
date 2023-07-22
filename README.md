@@ -15,3 +15,5 @@ Accuracy for multilabel classification (1-10) | 0.460360
 Precision | 0.508720
 Recall | 0.460360
 F-score | 0.478250
+
+[Flask app with this model] (https://github.com/SergeyKeik/RatingPredictionFlaskApp)
